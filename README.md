@@ -41,6 +41,8 @@ The application generates an investigation report containing:
 - Explanation
 - Safety Recommendations
 - <img width="1300" height="1039" alt="image" src="https://github.com/user-attachments/assets/de7204db-aace-40f0-b6b0-2eebb44da2be" />
+<img width="1068" height="1023" alt="image" src="https://github.com/user-attachments/assets/f3790ca0-049e-45e1-8f5c-af87a272b2d5" />
+
 
 ## Conclusion
 The Scam Message Investigator project successfully demonstrates how Artificial Intelligence can be used to identify potential scam and phishing messages. By using Python, Streamlit, Ollama, and the Gemma 3:1B model, the application analyzes suspicious messages, identifies warning signs, determines possible risk levels, and provides useful safety recommendations. This project helps users become more aware of online scams and encourages safer digital communication. It also provides practical experience in AI integration and Python application development.
